@@ -18,3 +18,4 @@ https://younglinux.info/pygame/key - примеры использования �
 https://docs-python.ru/standart-library/modul-struct-struktury-python/simvoly-formata-ispolzuemye-stroke-formata-struktury/ - о конвертации бинарных файлов
 https://docs.python.org/3/library/struct.html - еще больше о конвертации бинарных файлов
 https://hexed.it/ - вспомогательный сайт для реалиации конвертации бинарных файлов
+https://overcoder.net/q/1172368/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D1%81-pygame - код текстового поля для ввода
